@@ -239,22 +239,22 @@ img {
 }
 
 .oval-1 {
-    background-image: url('image/oval-1.svg');
+    background-image: url('../image/oval-1.svg');
 }
 .oval-2 {
-    background-image: url('image/oval-2.svg');
+    background-image: url('../image/oval-2.svg');
 }
 .oval-3 {
-    background-image: url('image/oval-3.svg');
+    background-image: url('../image/oval-3.svg');
 }
 .oval-4 {
-    background-image: url('image/oval-4.svg');
+    background-image: url('../image/oval-4.svg');
 }
 .oval-5 {
-    background-image: url('image/oval-5.svg');
+    background-image: url('../image/oval-5.svg');
 }
 .oval-6 {
-    background-image: url('image/oval-6.svg');
+    background-image: url('../image/oval-6.svg');
 }
 
 .box-wrapper h3 {
